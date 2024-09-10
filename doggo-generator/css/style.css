@@ -1,0 +1,59 @@
+html {
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(lightyellow, orange);
+    height: 100vh;
+
+}
+
+header{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+select {
+    font-size: 1.1rem;
+}
+
+.section-container {
+    display: flex;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    justify-content: center;
+}
+
+.item2 {
+    display: flex;
+    justify-content: center;
+}
+
+option {
+    text-align: center;
+}
+
+.breeds {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+img {
+    max-width: 900px;
+    max-height: 700px;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
