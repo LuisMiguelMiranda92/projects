@@ -1,1 +1,1 @@
-Repo with some of my projects!
+100Devs dog generator project
